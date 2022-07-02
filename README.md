@@ -10,4 +10,4 @@
 ### Advanced Learning Algorithms
 
 ## **Course 3:** 
-### Unsupervised Learning, Recommenders, Reinforcement Leanring
+### Unsupervised Learning, Recommenders, Reinforcement Learning
