@@ -4,7 +4,7 @@
 
 ---
 ## **Course 1:** 
-### Supervised Machine Learning: Regression and CLassification
+### Supervised Machine Learning: Regression and Classification
 
 ## **Course 2:** 
 ### Advanced Learning Algorithms
